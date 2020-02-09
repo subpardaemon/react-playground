@@ -1,0 +1,20 @@
+.typedChar {
+    font-size: 30px;
+    padding: 5px;
+}
+.typedChar.current {
+    background-color: yellow;
+    font-weight: bold;
+}
+.typedChar.right {
+    background-color: lightgreen;
+}
+.typedChar.wrong {
+    background-color: lightpink;
+}
+.typedChar.halfFaded {
+    opacity: 0.5;
+}
+.typedChar.quartFaded {
+    opacity: 0.75;
+}
